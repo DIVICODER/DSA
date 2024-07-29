@@ -1,1 +1,20 @@
 
+package BASIC_COLLECTION;
+public class Autoboxing_Unboxing{
+public static void main(String[] args) {
+
+    //this is autoboxing
+    // we are convering the int to object integer
+    int x=10;
+    Integer y=x;
+    System.out.println(y);
+
+    //this is unboxing
+    //we are convering the object integer to int 
+
+    Integer k=20;
+    int l=k;
+    System.out.println(l);
+
+}
+}
