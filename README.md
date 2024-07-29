@@ -12,7 +12,7 @@ Example:
 >javac ARRAYLIST/Min_max.java
 >java ARRAYLIST.Min_max
 
-    OTEHER WAY OF EXECUTING- IF FIRST ONE DOESN'T WORK U
+    OTHER WAY OF EXECUTING- IF FIRST ONE DOESN'T WORK U
 
 >javac -d . file_name.java { if u already have the folder name like this    PS C:\Users\LENOVO\
 Desktop\AwesomeProject\java program\DATA STRUCUTRE USING JAVA\ARRAYLIST>  }
